@@ -1,12 +1,9 @@
 {
-  "name": "nodejs-simple-app",
-  "version": "1.0.0",
-  "description": "Simple Node.js Express app with HTML",
-  "main": "index.js",
+  "name": "Elastic-Beanstalk-Sample-App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
   "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2"
+    "start": "node app.js"
   }
 }
